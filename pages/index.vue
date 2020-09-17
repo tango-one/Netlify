@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="name">Tom</h1>  
+    <h1 class="name">Tom</h1>
   </div>
 </template>
 
@@ -16,6 +16,10 @@ export default {}
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+.name {
+  color: pink;
 }
 
 .title {
